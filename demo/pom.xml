@@ -34,6 +34,20 @@
 </dependency>
 	
 	
+<dependency>
+    <groupId>org.apache.solr</groupId>
+    <artifactId>solr-solrj</artifactId>
+    <version>6.4.0</version>
+</dependency>
+
+
+<!-- https://mvnrepository.com/artifact/org.json/json -->
+<dependency>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    <version>20090211</version>
+</dependency>
+	
 	
 	
 		<dependency>
